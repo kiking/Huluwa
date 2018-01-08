@@ -25,8 +25,5 @@ public final class Ground extends JFrame {
     }
 
 
-    public static void main(String[] args) {
-        Ground ground = new Ground();
-        ground.setVisible(true);
-    }
+
 }
